@@ -2,6 +2,7 @@ require 'rubygems'
 require 'bundler'
 
 Bundler.require
+#Adding New Jenkins Server in Pipiline automate.rebootelabs.com
 
 use Rack::Deflater
 use Rack::Csrf
